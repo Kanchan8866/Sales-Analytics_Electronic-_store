@@ -1,4 +1,4 @@
-# Sales-Analytics_Electronic-_store
+# Sales-Analytics_Electronic_store
 
 ## Project Title
    
